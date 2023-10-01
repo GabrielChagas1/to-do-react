@@ -64,3 +64,8 @@ button:hover{
   justify-content: space-between;
   align-items: center;
 }
+
+.complete{
+  background-color: #5cb85c;
+}
+
