@@ -1,0 +1,9 @@
+body{
+  font-family: Arial;
+  background-color: #f4f4f4;
+  padding: 30px;
+  color: #333;
+  background-image: url('./img/pexels-pixabay-219692.jpg');
+  background-position: center;
+  background-size: cover;
+}
